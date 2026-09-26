@@ -4,6 +4,7 @@
 **Found:** early 2022  
 **Tested on ICAS3:** 2022–2023  
 **Tested on ICAS3GP:** late 2023 – early 2024  
+** valid across software versions, from the older 1516 releases through the latest 3001 release ** 
 
 Early public research / first documented public PoC of this **ICAS3GP USB → root** path (to our knowledge).
 
