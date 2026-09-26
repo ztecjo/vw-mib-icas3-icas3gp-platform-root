@@ -1,0 +1,24 @@
+root@euto-v7-icas3cn-gp::~# /lge/app_ro/bin/disp_sysinfo.sh
+display system information
+hardware version value : G04
+variant id : 114, 0x72
+platform_id : 0x4, ICAS3-GP
+brand info : 0x8, SVW (for china)
+market info : 0x4, China
+grade_id : 0x1, High
+display info : 0x4, ABT 15inch, 2240x1260
+cluster display info : 0x1, i.id, 800x400
+HUD info : 0x1, AR-HUD, 1120x780
+lvds info : 0x3, 3 port
+speaker channel info : 4 channel
+Navi info : 0x1, with navi
+GNSS info : 0x0, without gnss
+Gyro info : 0x1, with Gyro
+tuner configuration : 0x1 =>  titan
+fazit number : [LG8LGS14122140010036]
+hardware part number : [10C035878  ]
+vw/audi part number : [10C035878  ]
+current boot mode : normal mode
+systemd boot log : vlog output
+app_crash_reset : enabled
+root@euto-v7-icas3cn-gp::~#

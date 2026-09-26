@@ -1,0 +1,4 @@
+ caRpmb -bm w 0x313A4D42 REBOOT QNX Baremetal Mode      
+ caRpmb -bm w 0x323A4D42 REBOOT Recovery Mode   
+ caRpmb -bm w 0x333A4D42 REBOOT Fastboot Mode    
+ caRpmb -bm w 0x303A4D42 REBOOT Default 
