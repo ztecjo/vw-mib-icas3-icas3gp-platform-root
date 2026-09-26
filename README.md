@@ -1,4 +1,4 @@
-# VW MEB ICAS3 / ICAS3GP — USB Auto-Execution to Root
+# VW MIB ICAS3 / ICAS3GP Platform — USB Auto-Execution to Root
 
 **Researcher:** Saif Alzyoud ([ZTECJO](https://www.ztecjo.com) · [Alzyoud.org](https://www.alzyoud.org))  
 **Found:** early 2022  
@@ -75,7 +75,7 @@ UART is for research / boot visibility — the **primary exploit vector is USB a
 ## Repository layout
 
 ```text
-vw-meb-icas3gp-usb-root/
+vw-mib-icas3-icas3gp-platform-root/
 ├── README.md
 ├── scripts/
 │   └── lg.sh                          # USB auto-exec PoC (runs as root on insert)
